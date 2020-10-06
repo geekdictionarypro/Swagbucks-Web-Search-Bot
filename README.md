@@ -10,7 +10,7 @@ At the moment, the only version we support right now is Windows. macOS and Linux
 __________
 The app also right now only has 2 browser selections. More will be in the next update and many fixes will come there. 
 __________
-[V 0.01.000] <-- Current update as of download of the file 
+[V 0.01.1] <-- Current update as of download of the file 
 __________
 The application at the moment right now is being targeted by anti-virus software as a malware file as this sort of file is new. If you find that the application gets deleted, please go ahead and mark the file as a safe program as it doesn't do anything malicous. For instructions on how to do that, search your anti-virus provider and find steps from them on how to mark it as a safe product. At the moment, we have contacted the respected companies to flag our product safe. Sorry about the inconvience! 
 _________
