@@ -6,13 +6,13 @@ We are NOT responsible for and user liability or service liabilities for the web
 __________
 One thing to note in the program is that it may be a bit buggy and sometimes may not work properly. For example, when your asked to choose what browser you want to begin the searches, it may just choose your default browser. The programmer at the moment will go ahead and fix that under another update. For now, the best solution is to change your default browser to the one on the list you'd like to select. 
 __________ 
-At the moment, the only version we support right now is Windows. macOS and Linux are right now under development and will indeed be fixed. 
+At the moment, the only platforms we support are now Windows and macOS. Linux distributions are being developed and are underway
 __________
 The app also right now only has 2 browser selections. More will be in the next update and many fixes will come there. 
 __________
-[V 0.01.1] <-- Current update as of download of the file 
+[V 0.1.2] <-- Current update as of download of the file 
 __________
-The application at the moment right now is being targeted by anti-virus software as a malware file as this sort of file is new. If you find that the application gets deleted, please go ahead and mark the file as a safe program as it doesn't do anything malicous. For instructions on how to do that, search your anti-virus provider and find steps from them on how to mark it as a safe product. At the moment, we have contacted the respected companies to flag our product safe. Sorry about the inconvience! 
+We've contacted the respectful AV Companies and some AV Companies have responded and will indeed change their system for compatiblity with our application. If you AV company still shows that the file is malicious, please do contact us through this form. The best solution for the second scenario is to make sure you mark your file as safe from your AV Software Suite. Other than that, updates for some AV Softwares are being rolled out and will push the app to be safe. 
 _________
 If you have any more suggestions, bug reports, and support needed. Please fill out the following here >> https://forms.gle/ucRQKDofmjDLaUGS8
 ___________
