@@ -11,6 +11,8 @@ __________
 The app also right now only has 2 browser selections. More will be in the next update and many fixes will come there. 
 __________
 [V 0.1.2] <-- Current update as of download of the file 
+ - You now have the ability to download old versions of the programs (although it is ill-advised). 
+  - Find the old versions here by going through the folders in github.com or sourceforge.net 
 __________
 We've contacted the respectful AV Companies and some AV Companies have responded and will indeed change their system for compatiblity with our application. If you AV company still shows that the file is malicious, please do contact us through this form. The best solution for the second scenario is to make sure you mark your file as safe from your AV Software Suite. Other than that, updates for some AV Softwares are being rolled out and will push the app to be safe. 
 _________
