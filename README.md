@@ -6,7 +6,7 @@ We are NOT responsible for and user liability or service liabilities for the web
 __________
 One thing to note in the program is that it may be a bit buggy and sometimes may not work properly. For example, when your asked to choose what browser you want to begin the searches, it may just choose your default browser. The programmer at the moment will go ahead and fix that under another update. For now, the best solution is to change your default browser to the one on the list you'd like to select. 
 __________ 
-At the moment, the only platforms we support are now Windows and macOS. Linux distributions are being developed and are underway
+Now we support all main platforms, Windows, macOS, and Linux! Updates for all of the will be coming soon! 
 __________
 The app also right now only has 2 browser selections. More will be in the next update and many fixes will come there. 
 __________
