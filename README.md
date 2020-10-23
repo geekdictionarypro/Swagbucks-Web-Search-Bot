@@ -10,7 +10,7 @@ Now we support all main platforms, Windows, macOS, and Linux! Updates for all of
 __________
 The app also right now only has 2 browser selections. More will be in the next update and many fixes will come there. 
 __________
-[V 0.2.0] <-- Current update as of download of the file 
+[V 0.2.1] <-- Current update as of download of the file 
  - You now have the ability to download old versions of the programs (although it is ill-advised). 
   - Find the old versions here by going through the folders in github.com or sourceforge.net 
 __________
