@@ -2,20 +2,18 @@
 This is a Swagbucks search automation bot that accepts keywords you'd like to type or pick (coming soon). More features and updates are coming soon. 
 
 The terms and services for this app is the same as Swagbucks.com under the parent company of Protege LLC. 
-We are NOT responsible for and user liability or service liabilities for the website [Swagbucks.com] from the parent company Protege LLC. The programmer has made this app for simply better probability of searches to help you the user earn Swagbucks. A form of currency used to get incentives. 
-__________
-One thing to note in the program is that it may be a bit buggy and sometimes may not work properly. For example, when your asked to choose what browser you want to begin the searches, it may just choose your default browser. The programmer at the moment will go ahead and fix that under another update. For now, the best solution is to change your default browser to the one on the list you'd like to select. 
+We are NOT responsible for and user liability or service liabilities for the website [Swagbucks.com] from the parent company Protege LLC. The programmer has made this app for an added convenience to increase probability of searches to help you the user earn Swagbucks. A form of currency used to get incentives. 
 __________ 
 Now we support all main platforms, Windows, macOS, and Linux! Updates for all of the will be coming soon! 
 __________
-The app also right now only has 2 browser selections. More will be in the next update and many fixes will come there. 
+The app also right now only has 3 browser selections (Chrome and Firefox + one platform-specific browser). More will be in the next update and many fixes will come there. 
 __________
-[V 0.2.1] <-- Current update as of download of the file 
+[V 2.0.0] <-- Current update as of download of the file 
  - You now have the ability to download old versions of the programs (although it is ill-advised). 
-  - Find the old versions here by going through the folders in github.com or sourceforge.net 
+  - Find the old versions here by going through the releases (or folders) in github.com or sourceforge.net 
 __________
-We've contacted the respectful AV Companies and some AV Companies have responded and will indeed change their system for compatiblity with our application. If you AV company still shows that the file is malicious, please do contact us through this form. The best solution for the second scenario is to make sure you mark your file as safe from your AV Software Suite. Other than that, updates for some AV Softwares are being rolled out and will push the app to be safe. 
+Since the program should have a certificate that does not immediately mark the program for removal, there should be no issues with your anti-virus tampering with the program. However, in the case that your AV program detects malware or a false positive of the program, make sure to mark the file as safe or other means. Additionally, you can also fill out appropriate forms on your respective AV company's website to submit the application as a false positive to help update the AV company's virus definitions.
 _________
 If you have any more suggestions, bug reports, and support needed. Please fill out the following here >> https://forms.gle/ucRQKDofmjDLaUGS8
 ___________
-Copyright © 2020 - All rights reserved to their respectful parties (Programmer: GeekDictionary Pro) 
+Copyright © 2020-2023 - All rights reserved to their respectful parties (Programmer: GeekDictionary Pro) 
